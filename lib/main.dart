@@ -31,7 +31,7 @@ class MyHomePage extends StatelessWidget{
     body: Center(
       child: 
       Image(
-        image: AssetImage ('assets/images.jpg'),
+        image: AssetImage ('C:\flutterapps\tesr\afiqahlab\lib\Assets\images.jpg'),
       )
     ),
     );
